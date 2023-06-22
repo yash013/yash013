@@ -54,7 +54,6 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 <hr>
 
-Credits: [Yash Suthar](https://github.com/yash013)
 <!--
 **yash013/yash013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
