@@ -9,7 +9,7 @@
 </p>
 <hr>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Yash Suthar </h1>
-<h3 align="center"> Data Scientist | Machine Learning | Web dev </h3>
+<h3 align="center"> Data Scientist | Machine Learning | Web3 </h3>
 
 <p align="center">
   <em>
