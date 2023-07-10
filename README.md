@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     Hello, I am Yash Suthar a <b>final year</b> CSE undergraduate Student.<br>
-    <b>a passionate self-learner,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><b>BlockChain Enthusiast</b> and an aspiring <b>Data Scientist </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>who is <b>obsessed</b>
+    <b>a passionate self-learner,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><b>Web3 Enthusiast</b> and an aspiring <b>Data Scientist </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>who is <b>Preoccupied</b>
     with <b>Data</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
@@ -29,7 +29,7 @@
 ✔ I’m currently learning about **data science**<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it is stored in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it is stored in my brain* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -52,7 +52,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-<hr>
+<br>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/yash013/">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash013&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
+</a>
+</div>
 
 <!--
 **yash013/yash013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
