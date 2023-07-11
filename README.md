@@ -28,7 +28,7 @@
 ✔ Callme: ***He/His*** or ***TeamWorker*** <br>
 ✔ I’m currently learning about **data science**<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Shoot me your questions, and I’ll answer in a flash (unless I’m abducted by aliens) 👽<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it is stored in my brain* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
