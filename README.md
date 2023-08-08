@@ -8,17 +8,16 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Yash Suthar </h1>
+<h1 align="center">Hi, I am Yash Suthar </h1>
 <h3 align="center"> Data Scientist | Machine Learning | Web3 </h3>
 
 <p align="center">
   <em>
     Hello, I am Yash Suthar a <b>final year</b> CSE undergraduate Student.<br>
-    <b>a passionate self-learner,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><b>Web3 Enthusiast</b> and an aspiring <b>Data Scientist </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>who is <b>Preoccupied</b>
+    <b>a passionate self-learner,</b> an aspiring <b>Data Scientist</b> and <b>Web3 Enthusiast</b> &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>who is <b>Preoccupied</b>
     with <b>Data</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -29,7 +28,7 @@
 ✔ I’m currently learning about **data science**<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Shoot me your questions, and I’ll answer in a flash (unless I’m abducted by aliens) 👽<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it is stored in my brain* 😎<br><br><br><br>
+✔ Fun fact : *Ask me later* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -50,8 +49,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 <br>
 <hr>
 
