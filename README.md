@@ -9,7 +9,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I am Yash Suthar </h1>
-<h3 align="center"> Data Scientist | Machine Learning | Web3 </h3>
+<h3 align="center"> Data Science | Machine Learning | Web3 </h3>
 
 <p align="center">
   <em>
