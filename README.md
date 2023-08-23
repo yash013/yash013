@@ -1,16 +1,20 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=yash013&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India%20-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Gujarati-brightgreen" />
+<h1 align="center">Hi 👋, I'm Yash Suthar</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/yash-suthar-680a281b9/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ImYSuthar" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/yashsuthar_13" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 </p>
-<hr>
-<h1 align="center">Hi, I am Yash Suthar </h1>
-<h3 align="center"> Data Science | Machine Learning | Web3 </h3>
+<br><br>
 
+<!--
 <p align="center">
   <em>
     Hello, I am Yash Suthar a <b>final year</b> CSE undergraduate Student.<br>
@@ -20,15 +24,22 @@
   <br>
 </p>
 <br><br>
+-->
+***🌱 Interests...***
+- AI/ML
+- Data Scinence
+- Web Development
+- Blockchain<br>
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** <br>
-✔ I’m currently learning about **data science**<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Shoot me your questions, and I’ll answer in a flash (unless I’m abducted by aliens) 👽<br>
-✔ Fun fact : *Ask me later* 😎<br><br><br><br>
+💡 &nbsp;I like to explore new technologies. <br>
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and Data Science.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at yashsuthar013@gmail.com ! I'll try to respond as soon as I can.\
+✔ Fun fact : My code has a secret ingredient: trial, error, and a lot of coffee.🥲<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -49,8 +60,15 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br>
+<br><br>
+
+***📊 GitHub Stats:***
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash013&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <hr>
+
+
+
 
 
 <!--
