@@ -38,7 +38,6 @@
 💡 &nbsp;I like to explore new technologies. <br>
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and Data Science.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at yashsuthar013@gmail.com ! I'll try to respond as soon as I can.\
 ✔ Fun fact : My code has a secret ingredient: trial, error, and a lot of coffee.🥲<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
