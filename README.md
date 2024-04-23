@@ -68,6 +68,7 @@
 ***📊 GitHub Stats:***
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash013&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=yash013&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true) -->
 <hr>
 
 
