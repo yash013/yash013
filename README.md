@@ -37,7 +37,7 @@
 
 💡 &nbsp;I like to explore new technologies. <br>
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and Data Science.\
-📧 &nbsp;For collabration or any project discussion dm me at any of my socials. \
+📧 &nbsp;For collabration or any project discussion DM me at any of my socials. \
 ✔ Fun fact : My code has a secret ingredient: trial, error, and a lot of coffee. :-)<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools/framework/libraries...***
